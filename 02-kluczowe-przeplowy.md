@@ -1,0 +1,42 @@
+# Kluczowe Przepływy Użytkownika i Procesów
+
+## 1. Przepływ Onboardingu (Pierwsze Uruchomienie)
+
+### Krok 1: Rejestracja i Setup
+- Użytkownik zakłada konto
+- Dostarcza informacje o swojej działalności
+- Określa grupę docelową
+- System zbiera dane do personalizacji treści
+
+### Krok 2: Integracje
+- Podłączenie strony internetowej (instalacja pluginu WordPress)
+- Połączenie kont social media (Facebook, LinkedIn, Twitter)
+- Opcjonalnie: integracja z CRM i narzędziami marketingowymi
+
+### Krok 3: Konfiguracja
+- Ustawienie stylu i tonu komunikacji marki
+- Wybór preferowanych tematów
+- Określenie słów kluczowych branżowych
+
+## 2. Główny Przepływ Tworzenia Treści (3 kroki)
+
+### Krok 1: Generowanie Pomysłów
+- System analizuje popularne treści z branży użytkownika
+- AI identyfikuje trendy w wynikach wyszukiwania
+- Platforma prezentuje listę sugerowanych tematów artykułów
+- Użytkownik:
+  - Wybiera pomysły z listy, LUB
+  - Wpisuje własny pomysł na artykuł
+
+### Krok 2: Edycja i Dostosowanie
+- System generuje pełny artykuł
+- Użytkownik modyfikuje treść (interfejs jak Word)
+- Wybiera/zmienia grafiki
+- Dostosowuje formatowanie
+- System automatycznie tworzy posty na social media
+
+### Krok 3: Publikacja
+- Użytkownik wybiera kanały publikacji
+- Publikacja jednym kliknięciem lub zaplanowana
+
+## 3. Przepływ Automatycznej Publikacji
