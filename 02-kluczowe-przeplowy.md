@@ -40,3 +40,29 @@
 - Publikacja jednym kliknięciem lub zaplanowana
 
 ## 3. Przepływ Automatycznej Publikacji
+Treść gotowa → Plugin WordPress aktywny → Automatyczna publikacja → Dystrybucja na social media → Monitoring wyników
+## 4. Przepływ Optymalizacji SEO (Backend)
+
+System w tle:
+- Analizuje popularne frazy kluczowe
+- Identyfikuje kombinacje słów kluczowych
+- Inteligentnie wplata je w treści
+- Optymalizuje strukturę artykułu
+- Monitoruje efektywność pozycjonowania
+
+## 5. Przepływ Analizy i Monitoringu
+
+**Ciągły proces:**
+- Śledzenie ruchu na stronie
+- Pomiar wzrostu odwiedzin
+- Analiza skuteczności treści
+- Dashboard z wynikami
+- Rekomendacje optymalizacyjne
+
+## Kluczowe Punkty Decyzyjne
+
+1. **Pomysł własny vs. AI-sugerowany**
+2. **Stopień edycji** - automatyzacja vs. kontrola
+3. **Kanały publikacji** - wybór platform
+4. **Timing** - natychmiastowa vs. zaplanowana
+5. **Personalizacja** - poziom dostosowania do brandu
