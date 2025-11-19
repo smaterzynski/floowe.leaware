@@ -40,30 +40,13 @@ Dokument przedstawia:
 floowe-analysis/
 ├── README.md                          # Ten plik
 ├── docs/
-│   ├── 01-analiza-platformy.md       # Analiza Floowe.com
-│   ├── 02-kluczowe-przeplowy.md      # User flows i procesy
-│   ├── 03-event-storming-as-is.md    # Event Storming AS-IS
-│   ├── 04-event-storming-to-be.md    # Event Storming TO-BE
-│   ├── 05-specyfikacja-funkcji.md    # Szczegółowa specyfikacja
-│   └── 06-ryzyka-wyzwania.md         # Analiza ryzyk
-├── diagrams/
-│   ├── event-storming-as-is.png      # Diagram AS-IS
-│   ├── event-storming-to-be.png      # Diagram TO-BE
-│   └── user-flows.png                # Przepływy użytkownika
-├── specs/
-│   ├── user-stories/
-│   │   ├── ai-content-assistant.md
-│   │   ├── competitor-intelligence.md
-│   │   ├── smart-calendar.md
-│   │   ├── multi-language-hub.md
-│   │   └── performance-predictor.md
-│   └── technical/
-│       ├── architecture.md
-│       ├── integrations.md
-│       └── tech-stack.md
-└── interactive/
-    ├── event-storming.html           # Interaktywny diagram
-    └── README.md
+├── 01-analiza-platformy.md       # Analiza Floowe.com
+├── 02-kluczowe-przeplowy.md      # User flows i procesy
+├── 03-event-storming-as-is.md    # Event Storming AS-IS https://claude.ai/public/artifacts/f1ffcfb7-f815-4134-8b1a-91fc55284040
+├── 04-event-storming-to-be.md    # Event Storming TO-BE https://claude.ai/public/artifacts/92ae54aa-8579-48d8-95c6-46511c747995  
+├── 05-ryzyka i wyzwania
+
+
 ```
 
 ## 🔍 Analiza AS-IS
@@ -214,31 +197,6 @@ Każde ryzyko zawiera 6-9 konkretnych strategii mitigation, np.:
 
 Szczegóły: [`docs/06-ryzyka-wyzwania.md`](docs/06-ryzyka-wyzwania.md)
 
-## 🚀 Jak Używać
-
-### Dla Product Managerów
-
-1. Przeczytaj [`docs/01-analiza-platformy.md`](docs/01-analiza-platformy.md) - overview platformy
-2. Zobacz [`docs/05-specyfikacja-funkcji.md`](docs/05-specyfikacja-funkcji.md) - user stories i case'y biznesowe
-3. Zapoznaj się z [`docs/06-ryzyka-wyzwania.md`](docs/06-ryzyka-wyzwania.md) - przed planowaniem roadmapy
-
-### Dla Architektów i Tech Leadów
-
-1. Sprawdź [`specs/technical/architecture.md`](specs/technical/architecture.md) - architektura systemu
-2. Zobacz [`specs/technical/tech-stack.md`](specs/technical/tech-stack.md) - szczegółowy stack
-3. Przejrzyj [`specs/technical/integrations.md`](specs/technical/integrations.md) - zewnętrzne API
-
-### Dla Deweloperów
-
-1. Otwórz [`interactive/event-storming.html`](interactive/event-storming.html) - interaktywny diagram
-2. Sprawdź user stories w [`specs/user-stories/`](specs/user-stories/)
-3. Zapoznaj się z technical specs dla swojej funkcji
-
-### Dla Stakeholderów
-
-1. Executive Summary: sekcja [Propozycje TO-BE](#propozycje-to-be)
-2. ROI i Business Case: [`docs/05-specyfikacja-funkcji.md`](docs/05-specyfikacja-funkcji.md)
-3. Risk Analysis: [`docs/06-ryzyka-wyzwania.md`](docs/06-ryzyka-wyzwania.md)
 
 ## 📈 Roadmap Implementacji
 
