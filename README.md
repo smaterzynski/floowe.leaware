@@ -4,14 +4,14 @@
 
 ## 📋 Spis Treści
 
-- [O Projekcie](#o-projekcie)
-- [Struktura Repozytorium](#struktura-repozytorium)
-- [Analiza AS-IS](#analiza-as-is)
-- [Propozycje TO-BE](#propozycje-to-be)
-- [Event Storming](#event-storming)
-- [Specyfikacja Funkcjonalności](#specyfikacja-funkcjonalności)
-- [Ryzyka i Wyzwania](#ryzyka-i-wyzwania)
-- [Jak Używać](#jak-używać)
+- [O Projekcie](
+- [Struktura Repozytorium]
+- [Analiza AS-IS]
+- [Propozycje TO-BE]
+- [Event Storming]
+- [Specyfikacja Funkcjonalności]
+- [Ryzyka i Wyzwania]
+- [Jak Używać]
 
 ## 🎯 O Projekcie
 
