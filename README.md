@@ -11,7 +11,7 @@
 - [Event Storming]
 - [Specyfikacja Funkcjonalności]
 - [Ryzyka i Wyzwania]
-- [Jak Używać]
+
 
 ## 🎯 O Projekcie
 
@@ -168,7 +168,7 @@ Kryteria Akceptacji:
 - LanguageTool API (grammar checking)
 - WebSocket Server (real-time communication)
 
-Pełna specyfikacja: [`docs/05-specyfikacja-funkcji.md`](docs/05-specyfikacja-funkcji.md)
+
 
 ## ⚠️ Ryzyka i Wyzwania
 
@@ -195,7 +195,7 @@ Każde ryzyko zawiera 6-9 konkretnych strategii mitigation, np.:
 - Fallback na tańsze modele
 - Real-time cost monitoring
 
-Szczegóły: [`docs/06-ryzyka-wyzwania.md`](docs/06-ryzyka-wyzwania.md)
+
 
 
 ## 📈 Roadmap Implementacji
@@ -271,7 +271,7 @@ Ten dokument analityczny jest udostępniony jako przykład struktury projektowej
 
 ## 👥 Autorzy
 
-Analiza przeprowadzona: Listopad 2024
+Analiza przeprowadzona na potrzeby demonstracyjne: Listopad 2024
 
 ## 📞 Kontakt
 
