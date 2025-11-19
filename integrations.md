@@ -288,3 +288,97 @@
 ## Integration Architecture
 
 ### API Gateway Pattern
+Client Request
+↓
+[API Gateway]
+↓
+[Rate Limiter] → [Cache Check] → [Request Router]
+↓                                    ↓
+[External API]                    [Fallback Service]
+↓                                    ↓
+[Response] ← ← ← ← ← ← ← ← ← ← ← ← ← ← ←
+↓
+[Cache Store]
+↓
+Client Response
+
+### Retry & Fallback Strategy
+Primary API (Claude)
+↓ [fails]
+Secondary API (GPT-4)
+↓ [fails]
+Cached Response
+↓ [fails]
+User Notification
+
+### Circuit Breaker Pattern
+- After 5 consecutive failures, circuit opens
+- Wait 60 seconds before retry
+- Gradually restore service
+
+## Security Best Practices
+
+1. **API Key Management**
+   - Store in environment variables
+   - Never commit to version control
+   - Rotate keys quarterly
+   - Use secret management services (AWS Secrets Manager, Vault)
+
+2. **Rate Limiting**
+   - Implement client-side rate limiting
+   - Queue requests during high traffic
+   - Respect external API limits
+
+3. **Data Privacy**
+   - Encrypt sensitive data in transit (TLS)
+   - Encrypt at rest
+   - Comply with GDPR/CCPA
+   - Regular security audits
+
+4. **Monitoring**
+   - Track API usage and costs
+   - Set up alerts for anomalies
+   - Log all external API calls
+   - Monitor response times
+
+## Cost Optimization
+
+### Caching Strategy
+- Cache Claude/GPT-4 responses (24 hours)
+- Cache SEO data (weekly refresh)
+- Cache translations (permanent)
+- Cache competitor data (daily refresh)
+
+### Request Batching
+- Batch translations (process 100 at once)
+- Batch content generation
+- Scheduled scraping (not real-time)
+
+### Tier-based Access
+- Free tier: Limited API calls
+- Pro tier: Higher limits
+- Enterprise: Unlimited with SLA
+
+## Integration Testing
+
+### Mock Services
+- Mock external APIs in development
+- Use test API keys
+- Sandbox environments
+
+### Monitoring Tools
+- Postman collections for each integration
+- Automated integration tests
+- Health check endpoints
+
+## Disaster Recovery
+
+### Fallback Plans
+1. Primary API down → Secondary API
+2. All APIs down → Cached responses
+3. Cache empty → Queue requests for later
+
+### Data Backup
+- Daily backups of all integration configs
+- API key backup (encrypted)
+- Integration logs retention (30 days)
