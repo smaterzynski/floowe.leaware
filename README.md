@@ -39,7 +39,6 @@ Dokument przedstawia:
 ```
 floowe-analysis/
 ├── README.md                          # Ten plik
-├── docs/
 ├── 01-analiza-platformy.md       # Analiza Floowe.com
 ├── 02-kluczowe-przeplowy.md      # User flows i procesy
 ├── 03-event-storming-as-is.md    # Event Storming AS-IS 
