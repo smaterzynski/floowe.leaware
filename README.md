@@ -76,7 +76,8 @@ Floowe obecnie oferuje:
 
 ### Główne Przepływy (AS-IS)
 
-Szczegółowy opis w: [`docs/02-kluczowe-przeplowy.md`](docs/02-kluczowe-przeplowy.md)
+https://claude.ai/public/artifacts/f1ffcfb7-f815-4134-8b1a-91fc55284040
+https://claude.ai/public/artifacts/92ae54aa-8579-48d8-95c6-46511c747995 
 
 ## 🚀 Propozycje TO-BE
 
@@ -97,7 +98,7 @@ Szczegółowy opis w: [`docs/02-kluczowe-przeplowy.md`](docs/02-kluczowe-przeplo
 - **Poprawa conversion rate**: 15-40% (A/B testing)
 - **Oszczędność czasu na research**: 10-15 godzin/tydzień
 
-Szczegóły w: [`docs/05-specyfikacja-funkcji.md`](docs/05-specyfikacja-funkcji.md)
+
 
 ## 📊 Event Storming
 
@@ -105,11 +106,7 @@ Szczegóły w: [`docs/05-specyfikacja-funkcji.md`](docs/05-specyfikacja-funkcji.
 
 Projekt zawiera interaktywny diagram Event Storming z możliwością przełączania między widokami AS-IS i TO-BE.
 
-**Jak uruchomić:**
-```bash
-cd interactive
-open event-storming.html
-```
+
 
 ### Kluczowe Wydarzenia
 
@@ -127,7 +124,7 @@ open event-storming.html
 - Tłumaczenie Zainicjowane / Warianty Utworzone
 - Predykcja Obliczona / Test A/B / Wyniki Przeanalizowane
 
-Dokumentacja: [`docs/03-event-storming-as-is.md`](docs/03-event-storming-as-is.md) i [`docs/04-event-storming-to-be.md`](docs/04-event-storming-to-be.md)
+
 
 ## 📝 Specyfikacja Funkcjonalności
 
