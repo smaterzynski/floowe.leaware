@@ -268,11 +268,9 @@ Ten dokument analityczny jest udostępniony jako przykład struktury projektowej
 
 ## 👥 Autorzy
 
-Analiza przeprowadzona na potrzeby demonstracyjne: Listopad 2024
+Analiza przeprowadzona na potrzeby demonstracyjne: SM - Listopad 2024
 
-## 📞 Kontakt
 
-W przypadku pytań dotyczących analizy lub implementacji funkcji, otwórz Issue w tym repozytorium.
 
 ---
 
