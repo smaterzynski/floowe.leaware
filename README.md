@@ -1,4 +1,4 @@
-# Floowe Platform Analysis & Enhancement Proposal
+
 
 > Kompleksowa analiza platformy Floowe.com z propozycjami nowych funkcjonalności, Event Storming oraz szczegółową specyfikacją techniczną.
 
