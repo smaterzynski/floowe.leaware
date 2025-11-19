@@ -4,7 +4,7 @@
 
 ## 📋 Spis Treści
 
-- [O Projekcie](
+- [O Projekcie]
 - [Struktura Repozytorium]
 - [Analiza AS-IS]
 - [Propozycje TO-BE]
