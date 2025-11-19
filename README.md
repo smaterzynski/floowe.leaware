@@ -131,15 +131,14 @@ Projekt zawiera interaktywny diagram Event Storming z możliwością przełącza
 Każda z 5 funkcji zawiera:
 
 ### 1. User Story
-```
-Jako [rola]
-Chcę [funkcja]
-Aby [cel biznesowy]
+Jako właściciel treści chcę, aby system automatycznie analizował wyniki artykułów i sugerował aktualizacje aby poprawiać pozycje SEO i utrzymywać stale rosnący ruch organiczny.
+✔️ Kryteria akceptacji
+* System pobiera dane z GA/GSC minimum raz dziennie.
+* System wykrywa artykuły ze spadkiem pozycji lub CTR.
+* System generuje co najmniej 3 propozycje zmian (nagłówki, keywordy, treści akapitów).
+* Użytkownik może zaakceptować lub odrzucić każdą propozycję.
+* Po akceptacji artykuł jest automatycznie aktualizowany i publikowany.
 
-Kryteria Akceptacji:
-- [ ] ...
-- [ ] ...
-```
 
 ### 2. Case Biznesowy
 - Uzasadnienie funkcji
