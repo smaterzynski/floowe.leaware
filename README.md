@@ -42,8 +42,8 @@ floowe-analysis/
 ├── docs/
 ├── 01-analiza-platformy.md       # Analiza Floowe.com
 ├── 02-kluczowe-przeplowy.md      # User flows i procesy
-├── 03-event-storming-as-is.md    # Event Storming AS-IS https://claude.ai/public/artifacts/f1ffcfb7-f815-4134-8b1a-91fc55284040
-├── 04-event-storming-to-be.md    # Event Storming TO-BE https://claude.ai/public/artifacts/92ae54aa-8579-48d8-95c6-46511c747995  
+├── 03-event-storming-as-is.md    # Event Storming AS-IS 
+├── 04-event-storming-to-be.md    # Event Storming TO-BE  
 ├── 05-ryzyka i wyzwania
 
 
@@ -77,6 +77,7 @@ Floowe obecnie oferuje:
 ### Główne Przepływy (AS-IS)
 
 https://claude.ai/public/artifacts/f1ffcfb7-f815-4134-8b1a-91fc55284040
+
 https://claude.ai/public/artifacts/92ae54aa-8579-48d8-95c6-46511c747995 
 
 ## 🚀 Propozycje TO-BE
